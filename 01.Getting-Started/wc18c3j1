@@ -1,3 +1,8 @@
+# Ressources : 0,188s, 10,13 Mio
+# Temps d'exécution maximum d'un seul cas : 0,027s
+# Score final : 14/14 (3.0/3 points)
+# Link : "https://dmoj.ca/problem/wc18c3j1"
+
 p = int(input())
 b = int(input())
 d = int(input())
