@@ -1,3 +1,8 @@
+# Ressources : 0,137s, 10,07 Mio
+# Temps d'exécution maximum d'un seul cas : 0,028s
+# Score final : 20/20 (3.0/3 points) 
+# Link : "https://dmoj.ca/problem/wc17c1j2"
+
 c = int(input())
 
 if c >= -40 and c <= 40:
