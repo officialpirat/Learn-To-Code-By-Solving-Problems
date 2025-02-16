@@ -1,0 +1,5 @@
+y = int(input())
+m = int(input())
+
+age_o = m + (m - y)
+print(age_o)

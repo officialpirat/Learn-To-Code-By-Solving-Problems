@@ -1,0 +1,5 @@
+s = int(input())
+o = "o" * s
+string_s = "sp" + o + "ky"
+
+print(string_s)

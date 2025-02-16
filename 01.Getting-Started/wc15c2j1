@@ -1,0 +1,6 @@
+n = int(input())
+
+far = "far, " * (n-1)
+sentence = "A long time ago in a galaxy " + far + "far away..."
+
+print(sentence)
