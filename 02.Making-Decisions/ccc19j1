@@ -1,0 +1,21 @@
+# Ressources : 0,376s, 10,16 Mio
+# Temps d'exécution maximum d'un seul cas : 0,027s
+# Score final : 15/15 (3.0/3 points) 
+# Link : "https://dmoj.ca/problem/ccc19j1"
+
+apple_three_points = int(input())
+apple_two_points = int(input())
+apple_one_points = int(input())
+banana_three_points = int(input())
+banana_two_points = int(input())
+banana_one_points = int(input())
+
+total_apple_points = apple_three_points * 3 + apple_two_points * 2 + apple_one_points * 1
+total_banana_points = banana_three_points * 3 + banana_two_points * 2 + banana_one_points * 1
+
+if total_apple_points > total_banana_points:
+    print("A")
+elif total_banana_points > total_apple_points:
+    print("B")
+else:
+    print("T")
