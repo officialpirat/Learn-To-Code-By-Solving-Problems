@@ -1,3 +1,8 @@
+# Ressources : 0,135s, 10,06 Mio
+# Temps d'exécution maximum d'un seul cas : 0,027s
+# Score final : 10/10 (3.0/3 points) 
+# Link : "https://dmoj.ca/problem/wc15c2j1"
+
 n = int(input())
 
 far = "far, " * (n-1)
