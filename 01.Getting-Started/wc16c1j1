@@ -1,3 +1,8 @@
+# Ressources : 0,080s, 10,11 Mio
+# Temps d'exécution maximum d'un seul cas : 0,027s
+# Score final : 3/3 (3.0/3 points) 
+# Link : "https://dmoj.ca/problem/wc16c1j1"
+
 s = int(input())
 o = "o" * s
 string_s = "sp" + o + "ky"
